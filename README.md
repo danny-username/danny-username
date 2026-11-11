@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Contact me: 
+- Email:
+mail@dannyrubio.dev
+- Public key:
+[here](files/pubkey.asc)
 <!--
 **danny-username/danny-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
